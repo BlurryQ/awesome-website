@@ -1,2 +1,3 @@
-# awesome-website
-Odin's awesome landing page
+# Awesome Landing Page
+
+My attempt at mimicing Odin's awesome landing page.
