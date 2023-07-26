@@ -1,0 +1,155 @@
+/* global setting */
+
+*{
+    font-family: "Roboto", sans-serif;
+    /*border: 1px solid red;*/
+}
+
+body {
+    margin: 0px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    align-self: flex-start;
+}
+
+/* header */
+
+.header {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+/* part 1 */
+
+.part-one {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.headline {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 0 1 380px;
+    margin-bottom: 50px;
+}
+
+.headline h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.headline p {
+    color: #F9FAF8;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+button {
+    background: none;
+    color: white;
+    border: none;
+    font: inherit;
+}
+
+.button {
+    background: #3882F6;
+    border-radius: 10%;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    align-self: flex-start;
+}
+
+/* part 2 */
+
+.part-two{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.image-board {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-board img {
+    border: 3px solid #3882F6;
+    border-radius: 15%;
+    padding: 20px;
+}
+
+.image-text {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 150px;
+}
+
+/* part 3 */
+
+.part-three {
+    background-color: #E5E7EB;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px
+}
+
+.test {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 350px;
+
+}
+
+.test-two {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+}
+
+/*
+.page{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+*/
+
+/* footer */
+
+footer{
+    display: flex;
+    justify-content: center;
+}
