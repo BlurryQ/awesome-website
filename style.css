@@ -34,7 +34,7 @@ button {
     color: #E5E7EB;
     display: flex;
     justify-content: space-between;
-    align-items: center; 
+    align-items: center;
     padding: 0px 20px;
 }
 
@@ -85,7 +85,7 @@ button {
 
 .hero-button {
     background: #3882F6;
-    border-radius: 10%;
+    border-radius: 10px;
     text-decoration: none;
     display: inline-block;
     font-weight: bold;
@@ -100,7 +100,7 @@ button {
 
 /* part 2 */
 
-.information{
+.information {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -151,7 +151,7 @@ button {
 
 .quote {
     display: flex;
-    flex-direction: column;   
+    flex-direction: column;
 }
 
 .quote-speech {
@@ -215,7 +215,7 @@ button {
 
 /* footer */
 
-footer{
+footer {
     display: flex;
     justify-content: center;
     background-color: #1F2937;
