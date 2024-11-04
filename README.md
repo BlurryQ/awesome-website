@@ -6,7 +6,7 @@
 
 **Hosted:** [Awesome Landing Page](https://blurryq.github.io/landing-page/)
 
-My attempt at recreating Odin's awesome landing page. 
+This project is my attempt at recreating Odin's awesome landing page. It’s a fundamental exercise in mastering layouts, with a strong focus on flexbox for responsive, organized content. This layout serves as the bread and butter of web design, giving me hands-on experience in structuring a modern hero bar layout with engaging, well-spaced content.
 
 ## Features
 
